@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Mine Bot",
+    "slug": "minebot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.jpg",
+        "backgroundColor": "#b3bac9"
+      },
+      "package": "com.decoderashish.minebot"
+    },
+    "web": {
+      "favicon": "./assets/logo.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "76531a16-4706-4fbd-aa43-fae64282d162"
+      }
+    },
+    "owner": "decoderashish"
+  }
+}
